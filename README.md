@@ -2,12 +2,12 @@
  
  Features :
  
-Vehicle Management: Add, edit, and remove vehicles from the system.
+Vehicle Management:  Add, edit, and remove vehicles from the system.
 
-Maintenance Scheduling: Schedule and track regular maintenance for each vehicle.
+Maintenance Scheduling:  Schedule and track regular maintenance for each vehicle.
 
-Repair Tracking: Log and monitor repair requests and their status.
+Repair Tracking:  Log and monitor repair requests and their status.
 
-Data Collection: Collect and analyze data related to vehicle performance and service history.
+Data Collection:  Collect and analyze data related to vehicle performance and service history.
 
-Reporting: Generate reports on maintenance and repair activities.
+Reporting:  Generate reports on maintenance and repair activities.
